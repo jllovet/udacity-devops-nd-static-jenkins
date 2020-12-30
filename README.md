@@ -13,6 +13,7 @@ TODO: Write instructions for replicating
 ## References
 
 - Udacity
+    - [Udacity Cloud DevOps Nanodegree](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991)
     - [Udacity Nanodegree Git Style Guide](https://udacity.github.io/git-styleguide/)
 - Jenkins
     - [Home](https://www.jenkins.io/)
