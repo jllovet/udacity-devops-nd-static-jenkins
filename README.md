@@ -18,3 +18,9 @@ TODO: Write instructions for replicating
 - Jenkins
     - [Home](https://www.jenkins.io/)
     - [Pipelines](https://www.jenkins.io/doc/book/pipeline/)
+- Release Types
+    - Canary
+        - [Martin Fowler - Canary Release](https://martinfowler.com/bliki/CanaryRelease.html)
+        - [Hussein Nasser - Canary Deployment (Explained by Example)](https://www.youtube.com/watch?v=3IJ5ko8jSIA)
+    - Blue/Green
+        - [AWS Architectures - Blue/Green](https://aws.amazon.com/quickstart/architecture/blue-green-deployment/)
